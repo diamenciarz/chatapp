@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'leKahdo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3DD69F617DAF43C28D86990BD8C8A1BF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_15EF5E611B674E219D80E66B88BE653A }}
